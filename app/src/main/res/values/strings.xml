@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AdMovExample</string>
+
+    <string name="admov_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="admov_banner_add_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="admov_interstitial_add_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+
+</resources>
